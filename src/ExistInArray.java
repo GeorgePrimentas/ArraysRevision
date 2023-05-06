@@ -26,8 +26,8 @@ public class ExistInArray {
             // keep on 'looping'
         }
         // Another conditional: if the value of the integerFound
-        // variable after the loop is complete then display the message
-        // that the number was found
+        // variable after the loop is completed is true then display
+        //  the message that the number was found
         if ( integerFound == true ) {
             System.out.println("Value " + number + " found in array");
         } // otherwise display the message that the number was not found
